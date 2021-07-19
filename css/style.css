@@ -1,0 +1,159 @@
+body {
+    background: #ffffff;
+    margin-bottom: 600px;
+}
+
+header {
+    padding: 20px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 1279px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+#logo {
+    margin-left: 0px;
+    height: 100px;
+}
+
+nav {
+    position: absolute;
+    top: 50px;
+    right: 90px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 65px;
+}
+
+nav a {
+    color:#330033;
+    font-size: 25px;
+    font-family: arial;
+    text-decoration: none;
+}
+
+#ofertas {
+    font-weight: bold;
+    font-family: arial;
+}
+
+main {
+    margin-top: 150px;
+    display: inline;
+}
+
+#banner-rosa {
+    position: relative;
+    background: #ffccff;
+    margin-top: 70px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1190px;
+    height: 470px;
+    border-radius: 77px;
+    box-shadow: 0 0 3em #dadada;
+}
+
+#clavier-friday {
+    margin-left: 50px;
+    padding-top: 100px;
+    font-size: 100px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #333333;
+}
+
+.desconto {
+    margin-top: 30px;
+    margin-left: 60px;
+    font-size: 50px;
+    color: #333333;
+    font-family: arial;
+}
+
+form {
+    position: absolute;
+    top: 230px;
+    right: 180px;
+    box-shadow: 0 0 3em #bebebe;
+    background-image: linear-gradient(to right, #ff99cc, #ffcccc);
+    opacity: 80%;
+    width: 450px;
+    height: 500px;
+    border-radius: 60px;
+    padding-left: 60px;
+    padding-right: 40px;
+    padding-top: 50px;
+    font-size: 25px;
+    font-family: arial;
+}
+
+form label {
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+form input {
+    border-radius: 60px;
+    border: 1px solid #ffffff;
+    font-size: 25px;
+    font-family: arial;
+    display: block;
+    margin: 0 0 20px;
+    padding: 20px 25px;
+    width: 80%;
+}
+
+input[type="submit"] {
+    width: 50%;
+    margin: 40px 110px 50px;
+}
+
+#form-text {
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+#confira-ofertas{
+    text-align: center;
+    margin-top: 200px;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 45px;
+    color: #333333;
+}
+
+.produtos {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 3em #dadada;
+    border-radius: 77px;
+    margin-top: 100px;
+    background: #ffccff;
+    width: 80%;
+}
+
+.elements{
+    text-align: center;
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 150px;
+    padding-top: 60px;
+    background: #ffffff;
+    border-radius: 58px;
+    width: 80%;
+    height: 250px;
+    font-weight: bold;
+    font-size: 30px;
+    color: #333333;
+}
